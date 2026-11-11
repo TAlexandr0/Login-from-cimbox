@@ -1,0 +1,10 @@
+{
+  "name": "@cimbox/frontend-2",
+  "version": "2.5.4",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "npm --prefix ../.. run build",
+    "start": "node ./server.mjs"
+  }
+}

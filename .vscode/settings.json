@@ -1,0 +1,19 @@
+{
+  "window.openFilesInNewWindow": "off",
+  "explorer.confirmDelete": false,
+  "files.associations": {
+    "*.vue": "vue"
+  },
+  "editor.formatOnPaste": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.snippetSuggestions": "top",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "search.useParentIgnoreFiles": true,
+  "cSpell.enableFiletypes": ["vue-html", "vue-postcss"],
+  "cSpell.userWords": ["Matomo", "SUPPRESSMSGBOXES", "matomo"],
+  "cSpell.words": ["mixpanel"]
+}

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" fill="none">
+  <!-- Top Roof Chevron -->
+  <path
+    d="M500 16 L934 246 Q944 252 932 260 L742 362 L504 190 L268 362 L62 252 Z"
+    fill="#12D656"
+  />
+  <!-- Bottom Isometric Walls + Inner Pillar -->
+  <path
+    d="M60 315 L232 405 L232 746 L340 794 L346 508 L478 558 L478 858 Q490 868 504 862 L776 724 L782 416 L955 320 L950 730 L505 980 L58 728 Z"
+    fill="#12D656"
+  />
+</svg>
